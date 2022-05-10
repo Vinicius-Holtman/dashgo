@@ -1,6 +1,7 @@
 import { Header } from "../components/Header";
 
-export function Dashboard() {
+
+export default function Dashboard() {
   return (
     <Header />
   )
